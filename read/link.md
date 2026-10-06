@@ -89,6 +89,7 @@ has_children: true
 
 * [AGS/Astal](#agsastal)
 * [Noctalia](#noctalia)
+* [Fabric](#fabric)
 
 
 
@@ -109,6 +110,16 @@ has_children: true
 | ---- |
 | [Noctalia](https://noctalia.dev/) |
 | GitHub / noctalia-dev / [noctalia](https://github.com/noctalia-dev/noctalia) |
+
+
+
+
+## Fabric
+
+| Link |
+| ---- |
+| [Fabric](https://wiki.ffpy.org/) |
+| GitHub / Fabric-Development / [fabric](https://github.com/Fabric-Development/fabric) |
 
 
 

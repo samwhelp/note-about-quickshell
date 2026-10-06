@@ -34,6 +34,7 @@ has_children: true
 
 * [ML4W](#ml4w)
 * [MainstreamOS](#mainstreamos)
+* [Omarchy](#omarchy)
 
 
 
@@ -55,6 +56,16 @@ has_children: true
 | [MainstreamOS](https://mainstreamos.org/) |
 | GitHub / MainstreamOS / dots-hyprland / [dots/.config/quickshell/ii](https://github.com/MainstreamOS/dots-hyprland/tree/mainstream/dots/.config/quickshell/ii) |
 | GitHub / end-4 / dots-hyprland / [dots/.config/quickshell/ii](https://github.com/end-4/dots-hyprland/tree/main/dots/.config/quickshell/ii) |
+
+
+
+
+## Omarchy
+
+| Link |
+| ---- |
+| [Omarchy](https://omarchy.org/foundation/) |
+| GitHub / omacom / omarchy / [shell](https://github.com/omacom/omarchy/tree/quattro/shell) |
 
 
 

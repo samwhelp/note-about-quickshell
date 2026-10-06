@@ -41,8 +41,7 @@ has_children: true
 
 | Link |
 | ---- |
-| [ML4W OS
-Dotfiles for Hyprland](https://ml4w.com/os/) |
+| [ML4W OS Dotfiles for Hyprland](https://ml4w.com/os/) |
 | GitHub / mylinuxforwork / dotfiles / [.config/quickshell](https://github.com/mylinuxforwork/dotfiles/tree/main/dotfiles/.config/quickshell) |
 
 

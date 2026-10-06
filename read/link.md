@@ -13,6 +13,7 @@ has_children: true
 ## 主題
 
 * [Quick Shell](#quick-shell)
+* [Use Cases](#use-cases)
 * [Similar Projects](#similar-projects)
 
 
@@ -29,9 +30,29 @@ has_children: true
 
 
 
+## Use Cases
+
+* [ML4W](#ml4w)
+
+
+
+
+## ML4W
+
+| Link |
+| ---- |
+| [ML4W OS
+Dotfiles for Hyprland](https://ml4w.com/os/) |
+| GitHub / mylinuxforwork / dotfiles / [.config/quickshell](https://github.com/mylinuxforwork/dotfiles/tree/main/dotfiles/.config/quickshell) |
+
+
+
+
 ## Similar Projects
 
 > Hyprland Wiki / Useful utilities / Status bars / [Widget systems](https://wiki.hypr.land/useful-utilities/status-bars/#widget-systems)
+
+* [AGS/Astal](#ags-astal)
 
 
 

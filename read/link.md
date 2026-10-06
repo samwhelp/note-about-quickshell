@@ -35,6 +35,7 @@ has_children: true
 * [ML4W](#ml4w)
 * [MainstreamOS](#mainstreamos)
 * [Omarchy](#omarchy)
+* [Caelestia Shell](#caelestia-shell)
 
 
 
@@ -66,6 +67,18 @@ has_children: true
 | ---- |
 | [Omarchy](https://omarchy.org/foundation/) |
 | GitHub / omacom / omarchy / [shell](https://github.com/omacom/omarchy/tree/quattro/shell) |
+
+
+
+
+## Caelestia Shell
+
+| Link |
+| ---- |
+| [Caelestia Shell](https://caelestiashell.com/) |
+| GitHub / caelestia-dots / [shell](https://github.com/caelestia-dots/shell) |
+| GitHub / caelestia-dots / [caelestia](https://github.com/caelestia-dots/caelestia) |
+| GitHub / caelestia-dots / [cli](https://github.com/caelestia-dots/cli) |
 
 
 

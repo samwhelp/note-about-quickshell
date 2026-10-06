@@ -8,6 +8,15 @@ has_children: true
 # 連結
 
 
+## Quick Shell
+
+| Link |
+| ---- |
+| [Quickshell](https://quickshell.org/) |
+| Source / [quickshell](https://git.outfoxxed.me/quickshell/quickshell)
+| GitHub / [quickshell](https://github.com/quickshell-mirror/quickshell) |
+
+
 
 
 ## Just the Docs

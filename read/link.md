@@ -33,6 +33,7 @@ has_children: true
 ## Use Cases
 
 * [ML4W](#ml4w)
+* [MainstreamOS](#mainstreamos)
 
 
 
@@ -43,6 +44,17 @@ has_children: true
 | ---- |
 | [ML4W OS Dotfiles for Hyprland](https://ml4w.com/os/) |
 | GitHub / mylinuxforwork / dotfiles / [.config/quickshell](https://github.com/mylinuxforwork/dotfiles/tree/main/dotfiles/.config/quickshell) |
+
+
+
+
+## MainstreamOS
+
+| Link |
+| ---- |
+| [MainstreamOS](https://mainstreamos.org/) |
+| GitHub / MainstreamOS / dots-hyprland / [dots/.config/quickshell/ii](https://github.com/MainstreamOS/dots-hyprland/tree/mainstream/dots/.config/quickshell/ii) |
+| GitHub / end-4 / dots-hyprland / [dots/.config/quickshell/ii](https://github.com/end-4/dots-hyprland/tree/main/dots/.config/quickshell/ii) |
 
 
 

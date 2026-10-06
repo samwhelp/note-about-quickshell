@@ -52,7 +52,7 @@ Dotfiles for Hyprland](https://ml4w.com/os/) |
 
 > Hyprland Wiki / Useful utilities / Status bars / [Widget systems](https://wiki.hypr.land/useful-utilities/status-bars/#widget-systems)
 
-* [AGS/Astal](#ags-astal)
+* [AGS/Astal](#agsastal)
 
 
 

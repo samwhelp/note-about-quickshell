@@ -88,6 +88,7 @@ has_children: true
 > Hyprland Wiki / Useful utilities / Status bars / [Widget systems](https://wiki.hypr.land/useful-utilities/status-bars/#widget-systems)
 
 * [AGS/Astal](#agsastal)
+* [Noctalia](#noctalia)
 
 
 
@@ -98,6 +99,16 @@ has_children: true
 | ---- | ------ |
 | [AGS](https://aylur.github.io/ags/) | [GitHub](https://github.com/aylur/ags) |
 | [Astal](https://aylur.github.io/astal/) | [GitHub](https://github.com/aylur/astal) |
+
+
+
+
+## Noctalia
+
+| Link |
+| ---- |
+| [Noctalia](https://noctalia.dev/) |
+| GitHub / noctalia-dev / [noctalia](https://github.com/noctalia-dev/noctalia) |
 
 
 

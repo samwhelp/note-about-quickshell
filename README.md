@@ -18,11 +18,11 @@
 
 ## Link
 
+> [More ...](https://samwhelp.github.io/note-about-quickshell/read/link.html)
+
 | Link | GitHub |
 | ---- | ------ |
 | [note-about-hyprland](https://samwhelp.github.io/note-about-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-hyprland) |
-
-> [More ...](read/link)
 
 
 

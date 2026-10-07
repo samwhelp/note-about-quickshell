@@ -11,14 +11,14 @@
 
 ## 主題
 
-* [Link](#link)
+* [相關連結](#相關連結)
 
 
 
 
-## Link
+## 相關連結
 
-> [More ...](https://samwhelp.github.io/note-about-quickshell/read/link.html)
+> [更多 ...](https://samwhelp.github.io/note-about-quickshell/read/link.html)
 
 
 | Link |
@@ -30,11 +30,11 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [note-about-hyprland](https://samwhelp.github.io/note-about-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-hyprland) |
+| [Hyprland 探索筆記](https://samwhelp.github.io/note-about-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-hyprland) |
 
 
 
 
 ## Samwhelp
 
-* [GitHub](https://github.com/samwhelp)
+* [個人筆記](https://samwhelp.github.io/book/)

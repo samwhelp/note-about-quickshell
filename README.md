@@ -30,6 +30,7 @@
 
 | Link | GitHub |
 | ---- | ------ |
+| [Wayland 探索筆記](https://samwhelp.github.io/note-about-wayland/) | [GitHub](https://github.com/samwhelp/note-about-wayland) |
 | [Hyprland 探索筆記](https://samwhelp.github.io/note-about-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-hyprland) |
 
 

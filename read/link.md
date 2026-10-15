@@ -36,6 +36,7 @@ has_children: true
 * [MainstreamOS](#mainstreamos)
 * [Omarchy](#omarchy)
 * [Caelestia Shell](#caelestia-shell)
+* [DankMaterialShell](#dankmaterialshell-dms)
 
 
 
@@ -79,6 +80,16 @@ has_children: true
 | GitHub / caelestia-dots / [shell](https://github.com/caelestia-dots/shell) |
 | GitHub / caelestia-dots / [caelestia](https://github.com/caelestia-dots/caelestia) |
 | GitHub / caelestia-dots / [cli](https://github.com/caelestia-dots/cli) |
+
+
+
+
+## DankMaterialShell (dms)
+
+| Link |
+| ---- |
+| [Dank Linux](https://danklinux.com/) |
+| GitHub / [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) |
 
 
 

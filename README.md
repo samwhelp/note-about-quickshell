@@ -5,6 +5,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Quickshell 探索筆記](https://samwhelp.github.io/note-about-quickshell/) | [GitHub](https://github.com/samwhelp/note-about-quickshell/) |
+| [Quickshell Adjustment](https://samwhelp.github.io/quickshell-adjustment/) | [GitHub](https://github.com/samwhelp/quickshell-adjustment) |
 
 
 
